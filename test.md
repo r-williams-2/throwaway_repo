@@ -1,6 +1,3 @@
 # Mountains in the UK
 
-England is not very mountainous
-blah blah
-
-Another mountain
+England is not very moun
